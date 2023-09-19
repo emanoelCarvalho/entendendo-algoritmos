@@ -1,5 +1,3 @@
-//me faça um exemplo de insertion sort em javascript
-
 function insertionSort(array) {
     for (let i = 1; i < array.length; i++) { 
         let j = i - 1; 

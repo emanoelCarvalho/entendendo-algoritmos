@@ -1,5 +1,3 @@
-//me faça um bubblesort em javascript
-
 function bubbleSort(array) {
     let verificarTroca = true; // variável que verifica se houve troca
     while (verificarTroca) {

@@ -1,5 +1,3 @@
-#me faça um bubblesort em python
-
 def bubbleSort(lista):
     for i in range(len(lista)): #percorre a lista
         for j in range(len(lista)-1): #percorre a lista -1
